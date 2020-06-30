@@ -1,0 +1,14 @@
+#card {
+    background: linear-gradient(to right, rgb(158, 170, 174), rgb(110, 119, 124));
+    width: 15em;
+    height: 15em;
+    overflow: Scroll;
+    border: 5px solid #180462;
+
+}
+
+#stckyhead {
+    position: sticky;
+    top: 0;
+    background-color: #180462;
+}
